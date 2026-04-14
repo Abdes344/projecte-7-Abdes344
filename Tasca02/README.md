@@ -93,3 +93,6 @@ Aquest projecte permet:
 👉 És una solució escalable i preparada per futures millores (SEO, ecommerce, APIs).
 
 ---
+
+## StatCounter
+
