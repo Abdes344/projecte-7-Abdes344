@@ -96,3 +96,17 @@ Aquest projecte permet:
 
 ## StatCounter
 
+![imatge](/Tasca02/IMG/1.png)
+
+---
+
+![imatge](/Tasca02/IMG/2.png)
+
+---
+
+![imatge](/Tasca02/IMG/3.png)
+
+---
+
+![imatge](/Tasca02/IMG/4.png)
+
