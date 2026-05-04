@@ -4,7 +4,6 @@
 Creació de dos materials audiovisuals dins la campanya interna **"Dades Segures, Logística Eficient"** per a l’empresa FoodLogistic.
 
 L’objectiu és sensibilitzar els treballadors perquè coneguin **què poden i què no poden fer amb les dades personals** en el seu dia a dia laboral.
->🔐 *na empresa segura és aquella on tothom sap protegir la informació.*
 ---
 
 ## 🧩 Introducció al cas
@@ -132,5 +131,3 @@ S’han de crear **dos vídeos formatius** amb les següents característiques:
 - RGPD (Reglament General de Protecció de Dades)**
 
 ---
-
->  *Cnsell:* tilitza exemples reals i situacions quotidianes per fer els vídeos més entenedors i útils.****
